@@ -80,13 +80,14 @@ graph TD
 
 ---
 
-## 🚀 Quick Start (Windows Desktop)
+## 🚀 How It Works (Download & Setup)
 
-1. Download **`WikiFint_LeadRadar_Windows_v2.zip`**.
-2. Extract the archive to any folder on your computer.
-3. Double-click **`WikiFint_LeadRadar_Pro.exe`**.
-4. Your browser will automatically open your private dashboard at `http://localhost:8501`.
-5. Enter your license key (`RADAR-PRO-XXXX-XXXX...`) to unlock unlimited worldwide mining.
+1. Get your lifetime license key from the official store.
+2. Download the latest compiled client package:
+   👉 **[Download WikiFint LeadRadar Latest Client](https://leadradar.wikifint.com/download/latest)**
+3. Extract the `.zip` archive on your Windows computer or Ubuntu server.
+4. Launch `WikiFint_LeadRadar_Pro.exe` (or run daemon on Ubuntu).
+5. Enter your license key to unlock unlimited, zero-cost Google Maps lead extraction.
 
 ---
 
