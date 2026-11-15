@@ -132,7 +132,7 @@ Every extracted record includes:
 | **Agency Growth** | **$99** | Agencies & Lead Gen Teams | Up to 3 Workstations |
 | **Enterprise Cloud** | **$199** | Massive 24/7 Mining Teams | Windows GUI + Ubuntu VPS / Local Server |
 
-👉 **Purchase Instant Lifetime License:** [https://leadradar.wikifint.com](https://leadradar.wikifint.com) *(Instant Key Delivery)*
+👉 **Purchase Instant Lifetime License:** [https://buy.wikifint.com/l/wikifint-leadradar](https://buy.wikifint.com/l/wikifint-leadradar) *(Instant Key & Software Delivery)*
 
 ---
 
