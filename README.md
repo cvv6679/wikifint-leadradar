@@ -140,7 +140,7 @@ Every extracted record includes:
 
 - **Official Website:** [wikifint.com](https://wikifint.com)
 - **Live Demo & Portal:** [leadradar.wikifint.com](https://leadradar.wikifint.com)
-- **Email Support:** [admin@wikifint.com](mailto:admin@wikifint.com)
+- **Email Support:** [support@wikifint.com](mailto:support@wikifint.com)
 - **Built & Maintained by:** WikiFint Developer Team
 
 ---
