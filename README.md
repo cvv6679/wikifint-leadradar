@@ -12,7 +12,7 @@
 
 ### 🌐 Try the Interactive Web Demo (No Signup Required)
 Experience the speed and data structure before downloading:  
-👉 **[https://leadradar.wikifint.com](https://leadradar.wikifint.com)** *(Free Live Test Runs Included)*
+👉 **[https://leadradar.wikifint.com/demo](https://leadradar.wikifint.com/demo)** *(Free Live Test Runs Included)*
 
 ---
 
@@ -138,8 +138,9 @@ Every extracted record includes:
 
 ## 📞 Support & Community
 
-- **Official Website:** [wikifint.com](https://wikifint.com)
-- **Live Demo & Portal:** [leadradar.wikifint.com](https://leadradar.wikifint.com)
+- **Official Website & Landing Page:** [leadradar.wikifint.com](https://leadradar.wikifint.com)
+- **Live Interactive Demo:** [leadradar.wikifint.com/demo](https://leadradar.wikifint.com/demo)
+- **Official Store Checkout:** [buy.wikifint.com](https://buy.wikifint.com/l/wikifint-leadradar)
 - **Email Support:** [support@wikifint.com](mailto:support@wikifint.com)
 - **Built & Maintained by:** WikiFint Developer Team
 
